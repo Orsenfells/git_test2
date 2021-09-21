@@ -1,0 +1,2 @@
+This is Orsenfells second run through of the Odin Project!
+I'm going back over the basics because it has been a long time since I've last opened Visual Studio Code and I want to make sure I have a proper handle on the basics before diving further into my coding career
